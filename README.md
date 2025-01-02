@@ -4,7 +4,7 @@ Repository for MostViewedArticles App native iOS apps
 
 ## Contents
 
-- [Project Architecture Overview](https://#project-architecture)
+- [Project Architecture Overview](##project-architecture)
 
 ## Project Architecture Overview
 
